@@ -1,6 +1,6 @@
 export default function App() {
 
-  return (
+  return (//esto es --->
       <div className="h-screen w-full bg-black p-0">
           <nav className="flex justify-between items-center">
             <img className="m-4" src="public\Menu.png" alt="" />
